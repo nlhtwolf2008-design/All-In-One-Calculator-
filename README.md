@@ -47,6 +47,12 @@ BMI, BMR/TDEE (Mifflin–St Jeor), โซนหัวใจสำหรับว
 ## วิธีใช้งาน
 
 ```bash
+เปิดลิ้ง https://nlhtwolf2008-design.github.io/All-In-One-Calculator-/
+```
+
+ในเบราว์เซอร์ได้เลย
+
+```bash
 git clone https://github.com/<username>/<repo>.git
 cd <repo>
 ```

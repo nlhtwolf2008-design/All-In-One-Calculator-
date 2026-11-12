@@ -26,4 +26,3 @@ Object.assign(groups, {
   'การถ่ายโอนข้อมูล': { bps: 1, kbps: 1e3, Mbps: 1e6, Gbps: 1e9, Bps: 8, MBps: 8e6 },
   'ที่จัดเก็บข้อมูล': { B: 1, KB: 1e3, MB: 1e6, GB: 1e9, TB: 1e12, KiB: 1024, MiB: 1048576, GiB: 1073741824 }
 });
-    

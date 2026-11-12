@@ -52,6 +52,8 @@ BMI, BMR/TDEE (Mifflin–St Jeor), โซนหัวใจสำหรับว
 
 ในเบราว์เซอร์ได้เลย
 
+หรือ
+
 ```bash
 git clone https://github.com/<username>/<repo>.git
 cd <repo>
